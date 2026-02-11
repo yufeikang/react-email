@@ -1,5 +1,11 @@
 # @react-email/tailwind
 
+## 2.0.5
+
+### Patch Changes
+
+- 6ff41b7: - enhance CSS rule extraction and inline style handling
+
 ## 2.0.4
 
 ### Patch Changes
